@@ -28,7 +28,7 @@
 
 ### Administrative panel
 
-# Administrative panel for site content management, namely:
+#### Administrative panel for site content management, namely:
 
 - Creating / Editing / Deleting Articles
 - Database of registered users
