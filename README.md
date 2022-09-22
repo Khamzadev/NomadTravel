@@ -25,3 +25,11 @@
 - Search and view places
 - Blog 
 - Personal Area
+
+### Administrative panel
+
+# Administrative panel for site content management, namely:
+
+- Creating / Editing / Deleting Articles
+- Database of registered users
+- Модерация блога
