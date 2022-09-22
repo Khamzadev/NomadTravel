@@ -11,3 +11,10 @@
 - Maps where you can see the location
 - Mark places you like and add comments to them
 - Manager support
+
+### App functionality 
+
+- Registration / authorization via GMAIL
+- Registration will allow you to get support from the manager
+- The user will have his own personal account with the ability to add photos and information about himself and his travels
+- Choice of language : Kyrgyz , Russian , English
