@@ -32,4 +32,4 @@
 
 - Creating / Editing / Deleting Articles
 - Database of registered users
-- Модерация блога
+- Blog moderation
