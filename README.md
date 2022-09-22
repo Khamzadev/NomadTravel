@@ -18,3 +18,10 @@
 - Registration will allow you to get support from the manager
 - The user will have his own personal account with the ability to add photos and information about himself and his travels
 - Choice of language : Kyrgyz , Russian , English
+
+
+### App Sections 
+- Main page with news, life hacks and articles
+- Search and view places
+- Blog 
+- Personal Area
